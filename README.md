@@ -1,4 +1,4 @@
-### Hi there, my name is Rowan Paul Flynn
+### Hi there, I'm Rowan Paul
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=rowan-paul&count_private=true">
 
 🌐Web developer in the Netherlands
