@@ -5,3 +5,8 @@
 🌐Web developer in the Netherlands
 
 🖥[rowanpaulflynn.com](https://rowanpaulflynn.com)
+
+🔭[Track the best movies and shows with Tracktr](https://www.tracktr.app/)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rowan-Paul&layout=compact)
+
